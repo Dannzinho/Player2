@@ -175,4 +175,4 @@ O peso de cada aresta é calculado como `1 / (1 + interesses_em_comum) + penalid
 
 ## Contexto acadêmico
 
-Projeto desenvolvido para a disciplina de **Estruturas de Dados e Algoritmos em Grafos**, com o objetivo de aplicar algoritmos clássicos de grafos em um produto com interface real. A escolha do Flet permitiu entregar uma UI mobile-first sem sair do ecossistema Python.
+Projeto desenvolvido para a disciplina de **Teoria dos grafos**, com o objetivo de aplicar algoritmos clássicos de grafos em um produto com interface real. A escolha do Flet permitiu entregar uma UI mobile-first sem sair do ecossistema Python.
